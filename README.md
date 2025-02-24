@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/giyeon-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/giyeon-dev/LeetCode/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/giyeon-dev/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
