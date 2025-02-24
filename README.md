@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/giyeon-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0200-number-of-islands](https://github.com/giyeon-dev/LeetCode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/giyeon-dev/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/giyeon-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
