@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/giyeon-dev/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/giyeon-dev/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/giyeon-dev/LeetCode/tree/master/0071-simplify-path) |
+| [1894-merge-strings-alternately](https://github.com/giyeon-dev/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
